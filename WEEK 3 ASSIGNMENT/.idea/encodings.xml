@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/3_Spring_Core_Maven/1_Configuring_a_Basic_Spring_Application/code/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Core_Maven/1_Configuring_a_Basic_Spring_Application/code/LibraryManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Core_Maven/2_Implementing_Dependency_Injection/code/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Core_Maven/2_Implementing_Dependency_Injection/code/LibraryManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Core_Maven/4_Creating and Configuring a Maven Project/code/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Core_Maven/4_Creating and Configuring a Maven Project/code/LibraryManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Core_Maven/5_Configuring the Spring IoC Container/code/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Core_Maven/5_Configuring the Spring IoC Container/code/LibraryManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Core_Maven/7_Implementing Constructor and Setter Injection/code/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Core_Maven/7_Implementing Constructor and Setter Injection/code/LibraryManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Data_JPA_with_Spring_Boot,_Hibernate/1_Spring Data JPA - Quick Example/1_Spring Data JPA - Quick Example/code/orm-learn/orm-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Data_JPA_with_Spring_Boot,_Hibernate/1_Spring Data JPA - Quick Example/code/orm-learn/orm-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Data_JPA_with_Spring_Boot,_Hibernate/2_Difference between JPA, Hibernate and Spring Data JPA/code/HibernateExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Data_JPA_with_Spring_Boot,_Hibernate/2_Difference between JPA, Hibernate and Spring Data JPA/code/HibernateExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Data_JPA_with_Spring_Boot,_Hibernate/2_Difference between JPA, Hibernate and Spring Data JPA/code/SpringDataJPAExample (1)/SpringDataJPAExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_Spring_Data_JPA_with_Spring_Boot,_Hibernate/5_Implement services for managing Country/code/orm-learn1/orm-learn1/src/main/java" charset="UTF-8" />
+  </component>
+</project>

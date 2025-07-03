@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/3_Spring_Core_Maven/1_Configuring_a_Basic_Spring_Application/code/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/3_Spring_Core_Maven/2_Implementing_Dependency_Injection/code/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/3_Spring_Core_Maven/4_Creating and Configuring a Maven Project/code/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/3_Spring_Core_Maven/5_Configuring the Spring IoC Container/code/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/3_Spring_Core_Maven/7_Implementing Constructor and Setter Injection/code/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/3_Spring_Data_JPA_with_Spring_Boot,_Hibernate/1_Spring Data JPA - Quick Example/1_Spring Data JPA - Quick Example/code/orm-learn/orm-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/3_Spring_Data_JPA_with_Spring_Boot,_Hibernate/1_Spring Data JPA - Quick Example/code/orm-learn/orm-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/3_Spring_Data_JPA_with_Spring_Boot,_Hibernate/2_Difference between JPA, Hibernate and Spring Data JPA/code/HibernateExample/pom.xml" />
+        <option value="$PROJECT_DIR$/3_Spring_Data_JPA_with_Spring_Boot,_Hibernate/2_Difference between JPA, Hibernate and Spring Data JPA/code/SpringDataJPAExample (1)/SpringDataJPAExample/pom.xml" />
+        <option value="$PROJECT_DIR$/3_Spring_Data_JPA_with_Spring_Boot,_Hibernate/5_Implement services for managing Country/code/orm-learn1/orm-learn1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
